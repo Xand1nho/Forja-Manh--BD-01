@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Morango",
+        "descricao": "Morango fresco e suculento com 24un",
+        "preco": 1.99,
+        "imagem": "../Imagens/morango.jpeg"
+    },
+    {
+        "id": 2,
+        "nome": "Banana",
+        "descricao": "Banana nanica com 1kg",
+        "preco": 2.99,
+        "imagem": "../Imagens/banana.jpeg"
+    },
+    {
+        "id": 3,
+        "nome": "Maçã",
+        "descricao": "Maçã gala com 1kg",
+        "preco": 3.99,
+        "imagem": "../Imagens/maca.jpeg"
+    },
+    {
+        "id": 4,
+        "nome": "Laranja",
+        "descricao": "Laranja pera com 1kg",
+        "preco": 4.99,
+        "imagem": "../Imagens/laranja.jpeg"
+    },
+    {
+        "id": 5,
+        "nome": "Uva",
+        "descricao": "Uva sem semente com 1kg",
+        "preco": 5.90,
+        "imagem": "../Imagens/uva.jpeg"
+    },
+    {
+        "id": 6,
+        "nome": "Abacaxi",
+        "descricao": "Abacaxi pérola com 1un",
+        "preco": 6.90,
+        "imagem": "../Imagens/abacaxi.jpeg"
+    },
+    {
+        "id": 7,
+        "nome": "Melancia",
+        "descricao": "Melancia com 1un",
+        "preco": 7.90,
+        "imagem": "../Imagens/melancia.jpeg"
+    },
+    {
+        "id": 8,
+        "nome": "Pera",
+        "descricao": "Pera williams com 1kg",
+        "preco": 8.90,
+        "imagem": "../Imagens/pera.jpeg"
+    },
+    {
+        "id": 9,
+        "nome": "Kiwi",
+        "descricao": "Kiwi com 1kg",
+        "preco": 9.90,
+        "imagem": "../Imagens/kiwi.jpeg"
+    },
+    {
+        "id": 10,
+        "nome": "Caju",
+        "descricao": "Caju com 1kg",
+        "preco": 14.90,
+        "imagem": "../Imagens/caju.jpeg"
+    }
+]
